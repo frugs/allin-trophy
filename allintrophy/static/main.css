@@ -46,7 +46,7 @@ canvas {
 }
 
 .curtains {
-  background: url(curtains.png);
+  background: url(curtains.png) red;
   background-repeat: repeat;
   width: 50vw;
   height: 100vh;
